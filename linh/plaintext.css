@@ -402,15 +402,26 @@ header {
     margin-right: 5px;
 }
 
+.project-title {
+    color: green;
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
     /*background-color: #dddddd;*/
 }
-
+.education-content,
+.skill-content,
+.strong-content,
+.interest-content,
+.objective-content {
+    color: #1a1818;
+}
 td,
 th {
+    color: #1a1818;
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
