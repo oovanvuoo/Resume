@@ -42,6 +42,10 @@ a {
     background: url(bg_lines6.png);
 }
 
+.short-term {
+    padding-left: 20px;
+}
+
 .wrap {
     xdisplay: none;
     margin: 0 auto;
@@ -415,7 +419,6 @@ th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-
 
 @media (max-width: 30em) {
     #blur_1 {
